@@ -1,0 +1,5 @@
+!Numero de postos !NPostos
+2
+!Nome dos arquivos dos postos
+cruz_alta.txt
+83967_PORTO_ALEGRE.txt
